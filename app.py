@@ -1,6 +1,6 @@
 def add(a, b):
     """Возвращает сумму двух чисел."""
-    return a + b
+    return a - b
 
 
 def divide(a, b):
